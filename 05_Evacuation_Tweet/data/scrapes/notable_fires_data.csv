@@ -1,0 +1,51 @@
+name,county,acres,hectares,start,contained,notes
+Rumsey,Yolo,39138,15838.6,October 10 2004,October 16 2004,5 structures destroyed
+Old,San Bernardino,91281,36940.1,October 21 2003,November 25 2003,975 structures destroyed
+Simi,Ventura,108204,43788.6,October 25 2003,November 5 2003,315 structures destroyed
+Topanga,Los Angeles,24175,9783.3,September 28 2005,October 6 2005,
+Esperanza,Riverside,41173,16662.1,October 26 2006,November 1 2006,"5 fatalities, 54 structures destroyed"
+Island,Los Angeles,4750,1922.3,May 10 2007,May 15 2007,6 structures destroyed
+Zaca,Santa Barbara,240207,97208.3,July 4 2007,September 4 2007,1 structure destroyed
+Witch,San Diego,197990,80123.7,October 21 2007,November 6 2007,"1,650 structures destroyed"
+Harris,San Diego,90440,36599.8,October 21 2007,November 5 2007,472 structures destroyed; 1 fatality
+Santiago,Orange,28400,11493.1,October 21 2007,November 9 2007,24 structures destroyed
+Corral,Los Angeles,4901,1983.4,November 24 2007,November 27 2007,86 structures destroyed
+Indians,Monterey,81378,32932.5,June 8 2008,July 10 2008,
+Basin Complex,Monterey,162818,65890.1,June 21 2008,July 27 2008,
+Sesnon,Los Angeles,14703,5950.1,October 13 2008,October 18 2008,
+Jesusita,Santa Barbara,8733,3534.1,May 5 2009,May 20 2009,160 structures destroyed
+La Brea,Santa Barbara,89489,36214.9,August 8 2009,August 23 2009,
+Lockheed,Santa Cruz,7817,3163.4,August 12 2009,August 23 2009,13 structures destroyed
+Station,Los Angeles,160577,64983.2,August 26 2009,October 16 2009,209 structures destroyed; 2 fatalities
+Guiberson,Ventura,17500,7082.0,September 22 2009,October 1 2009,
+Rush,Lassen,271991,110070.9,August 12 2012,August 30 2012,1 barn destroyed
+Springs,Ventura,28000,11000,May 2 2013,May 6 2013,20 outbuildings destroyed
+Powerhouse,Los Angeles,30000,12000,May 30 2013,June 10 2013,24 structures destroyed
+Mountain,Riverside,27531,11141.4,July 15 2013,July 21 2013,23 structures destroyed
+Silver,Riverside,20292,8211.9,August 7 2013,August 12 2013,48 structures destroyed
+Rim,Tuolumne,257314,104131.3,August 17 2013,October 24 2013,112 structures destroyed
+Clover,Shasta,8073,3267.0,September 9 2013,September 15 2013,68 homes destroyed; 1 fatality
+Happy Camp Complex,Siskiyou,134056,54250.5,August 14 2014,October 31 2014,6 structures destroyed
+King,El Dorado,97717,39544.7,September 13 2014,October 9 2014,80 structures destroyed
+Boles,Siskiyou,516,208.8,September 15 2014,October 11 2014,157 structures destroyed
+Lake,San Bernardino,31359,12690.5,June 17 2015,August 1 2015,4 structures destroyed
+North,San Bernardino,4250,1719.9,July 17 2015,July 21 2015,7 structures destroyed
+Rocky,Lake,69438,28100.6,July 29 2015,August 14 2015,43 structures destroyed
+Butte,Amador Calaveras,70868,28679.3,September 9 2015,October 1 2015,818 structures destroyed; 2 fatalities
+Valley,Lake Napa Sonoma,76067,30783.2,September 12 2015,October 15 2015,"1,955 structures destroyed; 4 fatalities"
+Erskine,Kern,47864,19369.9,June 23 2016,July 11 2016,309 buildings destroyed; 2 fatalities
+Sand,Los Angeles,41432,16766.9,July 22 2016,August 3 2016,"18 homes destroyed, 2 fatalities"
+Soberanes,Monterey,132127,53469.9,July 22 2016,October 12 2016,"57 homes, 11 outbuildings destroyed, 1 fatality"
+Chimney,San Luis Obispo,46344,18754.8,August 13 2016,September 6 2016,68 structures destroyed
+Clayton,Lake,3929,1590.0,August 13 2016,August 26 2016,"175 structures destroyed, including a Habitat for Humanity office"
+Blue Cut,San Bernardino,37000,14973.4,August 16 2016,August 23 2016,"105 homes, 213 outbuildings destroyed, 82,000+ evacuated"
+Loma,Santa Clara,4474,1810.6,September 26 2016,October 12 2016,28 structures destroyed
+Detwiler,Mariposa,81826,33113.8,July 16 2017,August 24 2017,131 structures destroyed
+Tubbs,Sonoma,36807,14895.3,October 8 2017,October 31 2017,"5,643 structures destroyed; 22 fatalities"
+Thomas,Ventura Santa Barbara,281893,114078.0,December 4 2017,January 12 2018,"1,063 structures destroyed; 2 fatalities; 104,607 evacuated"
+Lilac,San Diego,4100,1659.2,December 7 2017,December 16 2017,"157 structures destroyed; 10,000+ evacuated"
+Ferguson,Mariposa,96901,39214.4,July 13 2018,August 19 2018,"2 firefighters killed, 19 injured"
+Carr,Shasta,229651,92936.5,July 23 2018,August 30 2018,"1,604 structures destroyed; 8 fatalities"
+Mendocino Complex,Mendocino Lake Colusa Glenn,459102,185792.0,July 27 2018,September 18 2018,"277 structures destroyed, 1 fatality"
+Camp,Butte,153336,62050,November 8 2018,November 25 2018,"18,804 structures destroyed, 86 fatalities"
+Woolsey,Los Angeles Ventura,96949,39230,November 8 2018,November 21 2018,"1,643 structures destroyed, 3 fatalities"
