@@ -32,7 +32,7 @@ We have seen remarkable increase in participation in states like Colorado and Il
     - compiled data from data cleaning
 - images (repository):
     - image folder
-- `READ ME.md` file
+- `README.md` file
 
 # Executive Summary
 - Data Collection and Munging:
