@@ -7,3 +7,4 @@ images/
 # Ignore creds file
 creds/creds/
 
+__pycache__/
