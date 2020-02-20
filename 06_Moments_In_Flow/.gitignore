@@ -1,0 +1,9 @@
+# Ignore models
+models/
+
+# Ignore all images
+images/
+
+# Ignore creds file
+creds/creds/
+
