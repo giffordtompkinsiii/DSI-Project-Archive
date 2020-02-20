@@ -7,4 +7,4 @@ Most projects were individual work with the exception of `Evacuation Twitter`.
 # Contents:
 |Project|Description|Packages and Skills|
 |-----|-----|-----|
-|||
+|SAT ACT Analysis|Using data from the 2017, 2018 SAT and ACT scores by state, develop and support a recommendation for a state of your choosing on how to increase SAT participation.|Visualizations, Seaborn, Pandas|
