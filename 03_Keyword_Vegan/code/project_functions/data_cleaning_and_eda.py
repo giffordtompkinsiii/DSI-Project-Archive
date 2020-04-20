@@ -2,6 +2,8 @@ import regex as re
 from nltk import WordNetLemmatizer
 from bs4 import BeautifulSoup
 
+nltk.download('wordnet')
+
 '''
 This dictionary is for expanding contraxctions in the NLP project_3
 It was taken from this stack overflow site: https://stackoverflow.com/questions/19790188/expanding-english-language-contractions-in-python
@@ -125,25 +127,28 @@ contractions = {"ain't": "am not / are not / is not / has not / have not",
     "you're": "you are",
     "you've": "you have"}
 
+contractions = {key.lower(): value.lower().replace(" /","") for key, value in contractions.items()}
+
 
 def soupify(html_string):
     '''
     `soupify` creates a function that pulls the html-formatted text, lowercases everything and then splits it into tokens to make it ready for conversion and lemmatizing.
     
     Paramters
-    ---------
+    =========
     html_string: str
         an string with html elements that will be converted into a plain text.
 
     Returns
-    -------
+    =======
     souped_tokens: list
         list of words converted from html formatting to plain string.
     '''
 
     soup = BeautifulSoup(html_string, features="lxml")
     souped_tokens = soup.find('p').text.lower().replace('’',"'").split()
-    return souped_tokens
+    tokens = [contractions[token] if token in contractions.keys() else token for token in souped_tokens]
+    return tokens
 
 
 

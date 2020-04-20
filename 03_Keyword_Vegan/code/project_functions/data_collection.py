@@ -85,7 +85,7 @@ def append_to_corpus(batch, corpus):
     ----------
     batch: list
     	list of dictionaries to be appended to the corpus
-   	corpus: str = '../datasets/train.csv'
+   	corpus: str = '../data/train.csv'
    		file location for the corpus csv
     '''
 

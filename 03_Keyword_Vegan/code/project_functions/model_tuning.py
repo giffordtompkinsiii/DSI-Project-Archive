@@ -83,7 +83,7 @@ def run_evaluate_grid(grid, X_train, X_test, y_train, y_test):
     model['sensitivity'],model['specificity'],model['confusion_matrix'] = parse_performance(grid, X_test, y_test)
     model['runtime'] = time.time() - t_0
     
-#     with open('../datasets/model_scores.csv', 'a') as f:
+#     with open('../data/model_scores.csv', 'a') as f:
 #         model.to_csv(f, header=False, index=False)
 #     print(f"Model with Testing Score: {model['test_score']} appended to model scores.")
     
