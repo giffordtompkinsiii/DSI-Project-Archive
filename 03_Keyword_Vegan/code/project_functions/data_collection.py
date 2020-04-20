@@ -6,7 +6,7 @@ def get_data_json(pull_no, base_url, url_paramaters):
     Pull data item from json designated by url and url parameters.
 
     Parameters
-    ----------
+    ==========
     pull_no: int
     	counts number of pulls requested
 
@@ -18,19 +18,20 @@ def get_data_json(pull_no, base_url, url_paramaters):
     	dictionary of request paramters
 
     Returns
-    -------
+    =======
 	data: list
 		list of values stored in under the 'data' key in the responses json.
     '''
 
     # print the pull number and subreddit we will submit a request to
-    print(f"r/{url_paramaters['subreddit']}: Pull number {pull_no + 1}")
+    print(f"r/{url_paramaters['subreddit']}")
+    print(f"Pull number {pull_no + 1}")
         
     # Call to pushshiftIO
     res = requests.get(base_url, url_paramaters)
 
     # Print the url, showing the parameters in case there is an error.
-    print(res.url)
+    # print(res.url)
 
     data = res.json()['data'] 
 
@@ -68,8 +69,8 @@ def create_doc(vegan_bool, post):
         doc['selftext'] = post['selftext']
     except:
         doc['selftext'] = None
-        print(f"Post: {post['title']} is missing selftext. Appending title only.")
-        print(doc)
+        # print(f"post_id: {post['id']} no selftext. Appending title only.")
+        # print(doc)
               
     return doc
 
