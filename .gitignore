@@ -7,3 +7,11 @@
 05_Evacuation_Tweet
 06_Moments_In_Flow
 
+# Ignore projects_panding file
+projects_pending
+
+# Ignore all data files (they are likely very large).
+*/data/*
+*/datasets/*
+*/creds/*
+*/creedentials/*
