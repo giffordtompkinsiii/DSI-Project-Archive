@@ -1,6 +1,10 @@
 # Ignore all project gitignore files.
 **/.gitignore
 
+# Ignore automatically generated files.
+*/__pycache__
+*/.ipynb_checkpoints
+
 # Ignore projects that are not "up-to-snuff"
 03_Keyword_Vegan
 04_Netflix_Season_3
