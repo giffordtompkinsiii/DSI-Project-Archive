@@ -14,8 +14,11 @@
 # Ignore projects_panding file
 projects_pending
 
+# Ignore feedback files.
+*/fedback.md
+
 # Ignore all data files (they are likely very large).
 */data/*
 */datasets/*
 */creds/*
-*/creedentials/*
+*/credentials/*
