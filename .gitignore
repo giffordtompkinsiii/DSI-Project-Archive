@@ -1,17 +1,20 @@
 # Ignore all project gitignore files.
 **/.gitignore
+.vscode
 
 # Ignore automatically generated files.
 */__pycache__
 */.ipynb_checkpoints
 
-# Ignore projects that are not "up-to-snuff"
-03_Keyword_Vegan
-04_Netflix_Season_3
-05_Evacuation_Tweet
-06_Moments_In_Flow
+## Ignore projects that are not "up-to-snuff"
+# 01_SAT_ACT_Analysis
+# 02_Ames_Housing_Kaggle_Challenge
+# 03_Keyword_Vegan
+# 04_Netflix_Season_3
+# 05_Evacuation_Tweet
+# 06_Moments_In_Flow
 
-# Ignore projects_panding file
+# Ignore projects_pending file
 projects_pending
 
 # Ignore feedback files.

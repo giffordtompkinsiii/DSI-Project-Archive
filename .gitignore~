@@ -1,0 +1,24 @@
+# Ignore all project gitignore files.
+**/.gitignore
+
+# Ignore automatically generated files.
+*/__pycache__
+*/.ipynb_checkpoints
+
+# Ignore projects that are not "up-to-snuff"
+03_Keyword_Vegan
+04_Netflix_Season_3
+05_Evacuation_Tweet
+06_Moments_In_Flow
+
+# Ignore projects_panding file
+projects_pending
+
+# Ignore feedback files.
+*/fedback.md
+
+# Ignore all data files (they are likely very large).
+*/data/*
+*/datasets/*
+*/creds/*
+*/credentials/*
